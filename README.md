@@ -1,6 +1,9 @@
 # BuddyMeterAnalyzer
 Analyze BuddyMeter quizzes.
 
+## Example
+https://www.sikeserver.com/tools/buddy/MEsrY4R
+
 ## Environment
 - PHP (Tested on 7.1.8)
 
