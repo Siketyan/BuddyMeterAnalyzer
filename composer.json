@@ -1,0 +1,13 @@
+{
+    "name": "siketyan/buddy",
+    "type": "project",
+    "require": {
+        "textalk/websocket": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Siketyan",
+            "email": "siketyan@sikeserver.com"
+        }
+    ]
+}
