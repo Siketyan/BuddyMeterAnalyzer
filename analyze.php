@@ -53,7 +53,7 @@
         </tbody>
       </table>
       <br>
-      <h3>Answers</h3>
+      <h3>Answerers</h3>
 <?php if (!isset($d["answerers"])): ?>
       <p>Nope, no one answered.</p>
 <?php else: ?>
